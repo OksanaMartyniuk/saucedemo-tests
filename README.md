@@ -2,12 +2,13 @@
 
 ## Installation
 1. Install [Node.js](https://nodejs.org/) v20.18.3
-2. Clone this repository 
-3. Run:  
+2. Clone this repository
+3. Run:
    npm install
-4. Install wdio version 9.11.0 
+4. Install wdio version 9.11.0:
    npm install --save-dev webdriverio
-5. Inicialization wdio npx wdio config
+5. Initialization and setting wdio
+
 
 ## Running Tests
 To execute tests, run:
